@@ -1,0 +1,240 @@
+.all{
+ background-image: url(./Images/images/bg-hero-desktop.svg);
+ height:50px ;
+}
+.first{
+    /* border-style: dotted; */
+   background-color: rgb(203, 209, 211);
+   height: 280px;
+   display: flex; 
+ }
+.faye{
+  /* border-style: double; */
+  height: 60px;
+  width: 50%;
+}
+.log{
+    width: 15%;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.free{
+/* margin-bottom: 50px; */
+margin-left: 1000px;
+margin-bottom: 100px;
+border-radius: 40px;
+background-color: whitesmoke;
+width: 20%;
+height: 20px;
+}
+.the{
+    /* border-style: double; */
+    height: 180px;
+    margin-left: 30px;
+    margin-top: 90px;
+    position: absolute;
+}
+ span{
+  font-weight: bold;
+  margin-bottom: 20px;
+ }
+.start{
+    padding: 10px 30px 20px 5px;
+    border-radius: 40px;
+    background-color: rgb(236, 29, 140);
+    color: white;
+    width: 40%;
+    height: 28px
+}
+.mocks{
+    /* border-style: double; */
+    height: 200px;
+    width: 25%;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+.nora{
+    /* border-style: double; */
+    display: flex;
+    height: 250px;
+    justify-content: space-between;
+    margin-top: 40px;
+    border-radius: 13px 10px 8px 12px;
+    box-shadow: 2px 1px 2px 1px;
+    border-color: white;
+}
+.flow{
+/* border-style: dashed; */
+   position: relative;
+   padding-bottom: 40px;
+   height: 210px;
+   width: 30%;
+   margin-right: 20px;
+}
+.strong{
+    /* border-style: dotted; */
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.conv{
+  height: 250px;
+}
+.Nathan{
+    display: flex;
+    /* border-style: solid; */
+    margin-top: 40px;
+    border-radius: 13px 10px 8px 12px;
+    box-shadow: 2px 1px 2px 1px;
+    height: 250px;
+    border-color: white; 
+}
+.dont{
+   width: 90%;
+   height: 200px;
+   /* border-style: dotted; */
+   margin-left: 20px;
+   margin-top: 20px;
+}
+.sorry{
+    /* border-style: dotted; */
+    margin-left: 450px;
+    margin-top: 40px;
+    height: 200px ;
+    width: 30%;
+    margin-bottom: 400px;
+}
+span{
+    font-weight: bold;
+}
+.aloaye{
+    display: flex;
+    border-style: solid;
+    margin-top: 40px;
+    border-radius: 13px 10px 8px 12px;
+    box-shadow: 2px 1px 2px 1px;
+    height: 250px;
+    border-color: white;
+}
+.your{
+    /* border-style: double; */
+    height: 250px;
+    width: 30%;
+    margin-bottom: 400px;
+    margin-left: 10px;
+  
+}
+.chris{
+
+    /* border-style: double; */
+    height: 250px;
+    width: 350px;
+    margin-left: 450px; 
+}
+.ready{
+    border-style: solid;
+    height: 300px;
+    border-radius: 13px 10px 8px 12px;
+    box-shadow: 0px 1px 2px 0px;;
+    border-color: white;
+    width: 50%;
+    position: relative;
+    left: 370px;
+    bottom: 200px;
+    top: 150px;
+}
+.joe{
+    width: 60%;
+    color: white;
+    height: 50px;
+    background-color: rgb(235, 27, 138);
+    border-radius: 21px 16px 16px 21px;
+    /* box-shadow: 1px 0px 0px 0px; */
+    border-color: rgb(235, 27, 138)   
+}
+.man{
+    margin-top: 60px;
+    margin-left: 200px; 
+} 
+span{
+    font-weight: bold;
+} 
+.Ij{
+    background-color: rgb(8, 24, 24);
+    border-style: solid;
+}
+.log2{
+    /* border-style: dashed; */
+   margin-top: 300px;
+   margin-left: 120px;
+    
+}
+.abi{
+ color: white;
+ margin-bottom: 150px;
+   display: flex;
+}
+
+.chucks{
+    margin-top: 100px;
+    margin-left: 30px;  
+}
+.mainbottom{
+  text-align: justify;
+  margin-top: 60px;
+}
+.section1{
+    /* border-style: dashed; */
+    margin-left: 100px;
+}
+.section2{
+position: relative;
+left: 200px;
+/* border-style: dashed; */
+}
+.section3{
+    /* border-style: dashed; */
+    position: relative;
+    left: 400px;
+}
+/* 
+.location{
+border-style: dotted; */
+/* padding-left: 30px;
+} */
+.phone{
+  /* border-style: dotted; */
+  margin-top: 90px;
+  /* padding-left: 30px; */
+}
+/* .envelope{
+  border-style: dotted; */
+  /* padding-left: 30px;
+} */
+
+.icons{
+    position: relative;
+    left: 60px;
+ /* margin-left:30px ;
+ margin-top: 20px; */
+}
+
+.social{ 
+display: flex;
+/* border-style: dashed; */
+position: relative;
+bottom: 370px;
+color: whitesmoke;
+padding-left: 1100px;
+padding-top:50px ;
+}
+.facebook{
+margin-left: 10px ;
+}
+.instagram{
+    margin-left: 10px;  
+}
+
+
+.animate__animated.animate__flip{
+    --animate-duration:3s;
+}
